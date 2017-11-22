@@ -1,0 +1,6 @@
+{
+"require":{
+   "slim/slim-skeleton": "3.*",
+      "catfan/Medoo": "^1.4"
+ }
+}
